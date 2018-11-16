@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: auth-bypass
+Implementation-Version: v8.0.0.SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: Satan
+Implementation-Vendor-Id: org.owasp.webgoat.lesson
+Created-By: Apache Maven 3.6.0
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://github.com/WebGoat/WebGoat/webgoat-lessons
+ -parent/auth-bypass
+Implementation-Vendor: OWASP
+
